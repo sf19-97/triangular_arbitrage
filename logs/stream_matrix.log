@@ -1,0 +1,821 @@
+2025-03-21 05:45:53,420 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57465, ask: 0.5749)
+2025-03-21 05:45:53,964 - stream_matrix - INFO - Updated EUR_USD: 1.08206 (bid: 1.08198, ask: 1.08214)
+2025-03-21 05:45:54,778 - stream_matrix - INFO - Updated USD_CHF: 0.883945 (bid: 0.88386, ask: 0.88403)
+2025-03-21 05:45:54,783 - stream_matrix - INFO - Updated GBP_USD: 1.2926350000000002 (bid: 1.29255, ask: 1.29272)
+2025-03-21 05:45:54,788 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62847, ask: 0.62859)
+2025-03-21 05:45:54,794 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:45:55,003 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62847, ask: 0.62859)
+2025-03-21 05:45:55,013 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:45:55,494 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:45:55,801 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:45:55,945 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29256, ask: 1.29275)
+2025-03-21 05:45:56,314 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:45:56,320 - stream_matrix - INFO - Updated AUD_USD: 0.6285350000000001 (bid: 0.62847, ask: 0.6286)
+2025-03-21 05:45:56,833 - stream_matrix - INFO - Updated AUD_USD: 0.6285350000000001 (bid: 0.62847, ask: 0.6286)
+2025-03-21 05:45:56,967 - stream_matrix - INFO - Updated USD_CAD: 1.4341650000000001 (bid: 1.43408, ask: 1.43425)
+2025-03-21 05:45:56,973 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62847, ask: 0.62859)
+2025-03-21 05:45:56,978 - stream_matrix - INFO - Updated NZD_USD: 0.57475 (bid: 0.57463, ask: 0.57487)
+2025-03-21 05:45:57,223 - stream_matrix - INFO - Updated AUD_USD: 0.6285350000000001 (bid: 0.62847, ask: 0.6286)
+2025-03-21 05:45:58,567 - stream_matrix - INFO - Updated USD_CAD: 1.4341599999999999 (bid: 1.43407, ask: 1.43425)
+2025-03-21 05:45:58,906 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:45:58,971 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078867  5.008009  ...  0.360579  0.464364  0.553820
+EUR  0.078867  0.000000  5.086875  ...  0.439446  0.543230  0.632687
+JPY -5.008009 -5.086875  0.000000  ... -4.647429 -4.543645 -4.454188
+GBP  0.256691  0.177824  5.264699  ...  0.617270  0.721054  0.810511
+CHF  0.123360  0.044494  5.131369  ...  0.483940  0.587724  0.677181
+CAD -0.360579 -0.439446  4.647429  ...  0.000000  0.103784  0.193241
+AUD -0.464364 -0.543230  4.543645  ... -0.103784  0.000000  0.089457
+NZD -0.553820 -0.632687  4.454188  ... -0.193241 -0.089457  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:45:58,978 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:45:59,594 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62847, ask: 0.62859)
+2025-03-21 05:45:59,740 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:46:00,058 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62847, ask: 0.62859)
+2025-03-21 05:46:00,063 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:00,512 - stream_matrix - INFO - Updated AUD_USD: 0.6285350000000001 (bid: 0.62847, ask: 0.6286)
+2025-03-21 05:46:00,517 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57465, ask: 0.57489)
+2025-03-21 05:46:00,819 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:46:01,013 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57465, ask: 0.5749)
+2025-03-21 05:46:01,259 - stream_matrix - INFO - Updated EUR_USD: 1.082065 (bid: 1.08199, ask: 1.08214)
+2025-03-21 05:46:01,536 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29253, ask: 1.29271)
+2025-03-21 05:46:01,843 - stream_matrix - INFO - Updated USD_CHF: 0.88394 (bid: 0.88386, ask: 0.88402)
+2025-03-21 05:46:01,849 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:46:02,356 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:02,560 - stream_matrix - INFO - Updated USD_CHF: 0.883945 (bid: 0.88387, ask: 0.88402)
+2025-03-21 05:46:02,876 - stream_matrix - INFO - Updated USD_CHF: 0.88394 (bid: 0.88386, ask: 0.88402)
+2025-03-21 05:46:03,076 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:46:03,584 - stream_matrix - INFO - Updated GBP_USD: 1.2926099999999998 (bid: 1.29252, ask: 1.2927)
+2025-03-21 05:46:03,589 - stream_matrix - INFO - Updated NZD_USD: 0.5747549999999999 (bid: 0.57463, ask: 0.57488)
+2025-03-21 05:46:03,595 - stream_matrix - INFO - System health metrics:
+2025-03-21 05:46:03,600 - stream_matrix - INFO - Uptime: 21h 11m 14s
+2025-03-21 05:46:03,605 - stream_matrix - INFO - Total updates: 415400
+2025-03-21 05:46:03,610 - stream_matrix - INFO - Updates per minute: 326.77
+2025-03-21 05:46:03,614 - stream_matrix - INFO - Connection attempts: 13
+2025-03-21 05:46:03,619 - stream_matrix - INFO - Matrix updates: 7292
+2025-03-21 05:46:03,625 - stream_matrix - INFO - Arbitrage opportunities: 0
+2025-03-21 05:46:03,631 - stream_matrix - INFO - Circuit breaker: CLOSED
+2025-03-21 05:46:03,635 - stream_matrix - INFO - Time since last update: 0.05s
+2025-03-21 05:46:04,135 - stream_matrix - INFO - Updated USD_CAD: 1.43419 (bid: 1.4341, ask: 1.43428)
+2025-03-21 05:46:04,140 - stream_matrix - INFO - Updated USD_CHF: 0.883945 (bid: 0.88387, ask: 0.88402)
+2025-03-21 05:46:04,614 - stream_matrix - INFO - Updated EUR_USD: 1.08206 (bid: 1.08199, ask: 1.08213)
+2025-03-21 05:46:05,223 - stream_matrix - INFO - Updated EUR_USD: 1.082055 (bid: 1.08198, ask: 1.08213)
+2025-03-21 05:46:06,247 - stream_matrix - INFO - Updated EUR_USD: 1.08206 (bid: 1.08198, ask: 1.08214)
+2025-03-21 05:46:07,435 - stream_matrix - INFO - Updated USD_JPY: 149.60750000000002 (bid: 149.599, ask: 149.616)
+2025-03-21 05:46:08,501 - stream_matrix - INFO - Updated USD_CHF: 0.88395 (bid: 0.88387, ask: 0.88403)
+2025-03-21 05:46:08,506 - stream_matrix - INFO - Updated USD_JPY: 149.60750000000002 (bid: 149.599, ask: 149.616)
+2025-03-21 05:46:10,754 - stream_matrix - INFO - Updated USD_JPY: 149.608 (bid: 149.6, ask: 149.616)
+2025-03-21 05:46:11,047 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:46:11,098 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078867  5.008019  ...  0.360600  0.464364  0.553811
+EUR  0.078867  0.000000  5.086885  ...  0.439467  0.543230  0.632678
+JPY -5.008019 -5.086885  0.000000  ... -4.647418 -4.543655 -4.454207
+GBP  0.256663  0.177797  5.264682  ...  0.617264  0.721027  0.810475
+CHF  0.123355  0.044488  5.131373  ...  0.483955  0.587718  0.677166
+CAD -0.360600 -0.439467  4.647418  ...  0.000000  0.103763  0.193211
+AUD -0.464364 -0.543230  4.543655  ... -0.103763  0.000000  0.089448
+NZD -0.553811 -0.632678  4.454207  ... -0.193211 -0.089448  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:46:11,266 - stream_matrix - INFO - Updated USD_JPY: 149.608 (bid: 149.6, ask: 149.616)
+2025-03-21 05:46:11,573 - stream_matrix - INFO - Updated USD_JPY: 149.60750000000002 (bid: 149.599, ask: 149.616)
+2025-03-21 05:46:12,594 - stream_matrix - INFO - Updated EUR_USD: 1.082065 (bid: 1.08199, ask: 1.08214)
+2025-03-21 05:46:12,798 - stream_matrix - INFO - Updated USD_JPY: 149.608 (bid: 149.6, ask: 149.616)
+2025-03-21 05:46:13,113 - stream_matrix - INFO - Updated EUR_USD: 1.0820699999999999 (bid: 1.08199, ask: 1.08215)
+2025-03-21 05:46:13,119 - stream_matrix - INFO - Updated USD_CAD: 1.4341599999999999 (bid: 1.43408, ask: 1.43424)
+2025-03-21 05:46:13,125 - stream_matrix - INFO - Updated USD_JPY: 149.60750000000002 (bid: 149.599, ask: 149.616)
+2025-03-21 05:46:13,132 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:46:13,139 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62847, ask: 0.62859)
+2025-03-21 05:46:13,414 - stream_matrix - INFO - Updated USD_JPY: 149.60750000000002 (bid: 149.599, ask: 149.616)
+2025-03-21 05:46:13,421 - stream_matrix - INFO - Updated GBP_USD: 1.2926350000000002 (bid: 1.29255, ask: 1.29272)
+2025-03-21 05:46:13,428 - stream_matrix - INFO - Updated AUD_USD: 0.6285350000000001 (bid: 0.62847, ask: 0.6286)
+2025-03-21 05:46:13,618 - stream_matrix - INFO - Updated USD_JPY: 149.6095 (bid: 149.601, ask: 149.618)
+2025-03-21 05:46:13,625 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:13,930 - stream_matrix - INFO - Updated EUR_USD: 1.0820750000000001 (bid: 1.082, ask: 1.08215)
+2025-03-21 05:46:13,938 - stream_matrix - INFO - Updated USD_JPY: 149.60899999999998 (bid: 149.6, ask: 149.618)
+2025-03-21 05:46:13,945 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:46:14,084 - stream_matrix - INFO - Updated USD_JPY: 149.6085 (bid: 149.6, ask: 149.617)
+2025-03-21 05:46:14,090 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:14,645 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:14,955 - stream_matrix - INFO - Updated USD_CAD: 1.4341650000000001 (bid: 1.43408, ask: 1.43425)
+2025-03-21 05:46:14,961 - stream_matrix - INFO - Updated USD_JPY: 149.6085 (bid: 149.6, ask: 149.617)
+2025-03-21 05:46:15,305 - stream_matrix - INFO - Updated USD_JPY: 149.6085 (bid: 149.6, ask: 149.617)
+2025-03-21 05:46:15,310 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:15,317 - stream_matrix - INFO - Updated NZD_USD: 0.57475 (bid: 0.57463, ask: 0.57487)
+2025-03-21 05:46:15,982 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:16,148 - stream_matrix - INFO - Updated USD_CAD: 1.4341650000000001 (bid: 1.43408, ask: 1.43425)
+2025-03-21 05:46:16,156 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:46:16,161 - stream_matrix - INFO - Updated NZD_USD: 0.574755 (bid: 0.57464, ask: 0.57487)
+2025-03-21 05:46:16,485 - stream_matrix - INFO - Updated USD_CAD: 1.4341599999999999 (bid: 1.43407, ask: 1.43425)
+2025-03-21 05:46:16,490 - stream_matrix - INFO - Updated USD_JPY: 149.6085 (bid: 149.6, ask: 149.617)
+2025-03-21 05:46:16,496 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:16,689 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:46:17,002 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:17,725 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:46:17,925 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.29252, ask: 1.29269)
+2025-03-21 05:46:18,155 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:46:18,738 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:18,952 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29254, ask: 1.2927)
+2025-03-21 05:46:18,958 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:19,251 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:19,257 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:46:19,456 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29254, ask: 1.2927)
+2025-03-21 05:46:19,762 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:19,966 - stream_matrix - INFO - Updated EUR_USD: 1.0820699999999999 (bid: 1.08199, ask: 1.08215)
+2025-03-21 05:46:19,972 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29254, ask: 1.2927)
+2025-03-21 05:46:19,978 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:20,274 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:20,279 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:46:20,445 - stream_matrix - INFO - Updated USD_CAD: 1.434155 (bid: 1.43406, ask: 1.43425)
+2025-03-21 05:46:20,450 - stream_matrix - INFO - Updated USD_JPY: 149.60899999999998 (bid: 149.6, ask: 149.618)
+2025-03-21 05:46:20,699 - stream_matrix - INFO - Updated USD_JPY: 149.6085 (bid: 149.6, ask: 149.617)
+2025-03-21 05:46:20,705 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29254, ask: 1.2927)
+2025-03-21 05:46:20,711 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:46:21,001 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:46:21,291 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:46:21,339 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078876  5.008022  ...  0.360576  0.464364  0.553785
+EUR  0.078876  0.000000  5.086898  ...  0.439452  0.543239  0.632661
+JPY -5.008022 -5.086898  0.000000  ... -4.647446 -4.543658 -4.454237
+GBP  0.256671  0.177795  5.264693  ...  0.617247  0.721035  0.810456
+CHF  0.123355  0.044479  5.131377  ...  0.483931  0.587718  0.677140
+CAD -0.360576 -0.439452  4.647446  ...  0.000000  0.103788  0.193209
+AUD -0.464364 -0.543239  4.543658  ... -0.103788  0.000000  0.089422
+NZD -0.553785 -0.632661  4.454237  ... -0.193209 -0.089422  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:46:22,526 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:46:23,558 - stream_matrix - INFO - Updated EUR_USD: 1.0820750000000001 (bid: 1.082, ask: 1.08215)
+2025-03-21 05:46:23,766 - stream_matrix - INFO - Updated EUR_USD: 1.0820699999999999 (bid: 1.08199, ask: 1.08215)
+2025-03-21 05:46:24,994 - stream_matrix - INFO - Updated USD_JPY: 149.6085 (bid: 149.6, ask: 149.617)
+2025-03-21 05:46:25,293 - stream_matrix - INFO - Updated EUR_USD: 1.0820750000000001 (bid: 1.082, ask: 1.08215)
+2025-03-21 05:46:25,299 - stream_matrix - INFO - Updated USD_CAD: 1.434145 (bid: 1.43406, ask: 1.43423)
+2025-03-21 05:46:25,304 - stream_matrix - INFO - Updated USD_CHF: 0.883945 (bid: 0.88387, ask: 0.88402)
+2025-03-21 05:46:25,309 - stream_matrix - INFO - Updated USD_JPY: 149.6025 (bid: 149.594, ask: 149.611)
+2025-03-21 05:46:25,314 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:46:25,319 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:46:25,600 - stream_matrix - INFO - Updated EUR_USD: 1.08208 (bid: 1.082, ask: 1.08216)
+2025-03-21 05:46:25,605 - stream_matrix - INFO - Updated USD_CAD: 1.43412 (bid: 1.43403, ask: 1.43421)
+2025-03-21 05:46:25,611 - stream_matrix - INFO - Updated USD_CHF: 0.883915 (bid: 0.88385, ask: 0.88398)
+2025-03-21 05:46:25,616 - stream_matrix - INFO - Updated USD_JPY: 149.596 (bid: 149.588, ask: 149.604)
+2025-03-21 05:46:25,622 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:25,627 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57465, ask: 0.5749)
+2025-03-21 05:46:25,811 - stream_matrix - INFO - Updated EUR_USD: 1.08209 (bid: 1.08202, ask: 1.08216)
+2025-03-21 05:46:25,817 - stream_matrix - INFO - Updated NZD_USD: 0.574785 (bid: 0.57466, ask: 0.57491)
+2025-03-21 05:46:26,103 - stream_matrix - INFO - Updated EUR_USD: 1.08209 (bid: 1.08202, ask: 1.08216)
+2025-03-21 05:46:26,108 - stream_matrix - INFO - Updated USD_CHF: 0.88391 (bid: 0.88384, ask: 0.88398)
+2025-03-21 05:46:26,113 - stream_matrix - INFO - Updated USD_JPY: 149.5975 (bid: 149.59, ask: 149.605)
+2025-03-21 05:46:26,120 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29257, ask: 1.29274)
+2025-03-21 05:46:26,126 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57466, ask: 0.57489)
+2025-03-21 05:46:26,419 - stream_matrix - INFO - Updated USD_JPY: 149.598 (bid: 149.591, ask: 149.605)
+2025-03-21 05:46:26,424 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:26,429 - stream_matrix - INFO - Updated NZD_USD: 0.574785 (bid: 0.57466, ask: 0.57491)
+2025-03-21 05:46:26,737 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29256, ask: 1.29275)
+2025-03-21 05:46:26,742 - stream_matrix - INFO - Updated NZD_USD: 0.574785 (bid: 0.57466, ask: 0.57491)
+2025-03-21 05:46:26,937 - stream_matrix - INFO - Updated EUR_USD: 1.082085 (bid: 1.08201, ask: 1.08216)
+2025-03-21 05:46:26,942 - stream_matrix - INFO - Updated USD_JPY: 149.5975 (bid: 149.59, ask: 149.605)
+2025-03-21 05:46:26,947 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:27,237 - stream_matrix - INFO - Updated USD_JPY: 149.598 (bid: 149.591, ask: 149.605)
+2025-03-21 05:46:28,071 - stream_matrix - INFO - Updated USD_JPY: 149.5975 (bid: 149.59, ask: 149.605)
+2025-03-21 05:46:28,164 - stream_matrix - INFO - Updated USD_JPY: 149.598 (bid: 149.591, ask: 149.605)
+2025-03-21 05:46:29,286 - stream_matrix - INFO - Updated USD_JPY: 149.5975 (bid: 149.59, ask: 149.605)
+2025-03-21 05:46:29,291 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:29,296 - stream_matrix - INFO - System health metrics:
+2025-03-21 05:46:29,301 - stream_matrix - INFO - Uptime: 21h 11m 39s
+2025-03-21 05:46:29,306 - stream_matrix - INFO - Total updates: 415500
+2025-03-21 05:46:29,310 - stream_matrix - INFO - Updates per minute: 326.74
+2025-03-21 05:46:29,314 - stream_matrix - INFO - Connection attempts: 13
+2025-03-21 05:46:29,320 - stream_matrix - INFO - Matrix updates: 7294
+2025-03-21 05:46:29,324 - stream_matrix - INFO - Arbitrage opportunities: 0
+2025-03-21 05:46:29,329 - stream_matrix - INFO - Circuit breaker: CLOSED
+2025-03-21 05:46:29,334 - stream_matrix - INFO - Time since last update: 0.04s
+2025-03-21 05:46:29,490 - stream_matrix - INFO - Updated USD_JPY: 149.598 (bid: 149.591, ask: 149.605)
+2025-03-21 05:46:29,495 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57466, ask: 0.57489)
+2025-03-21 05:46:29,687 - stream_matrix - INFO - Updated USD_JPY: 149.599 (bid: 149.592, ask: 149.606)
+2025-03-21 05:46:30,013 - stream_matrix - INFO - Updated USD_JPY: 149.5985 (bid: 149.591, ask: 149.606)
+2025-03-21 05:46:30,209 - stream_matrix - INFO - Updated USD_CHF: 0.88393 (bid: 0.88385, ask: 0.88401)
+2025-03-21 05:46:30,215 - stream_matrix - INFO - Updated USD_JPY: 149.599 (bid: 149.592, ask: 149.606)
+2025-03-21 05:46:30,720 - stream_matrix - INFO - Updated USD_JPY: 149.5985 (bid: 149.591, ask: 149.606)
+2025-03-21 05:46:31,441 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:31,743 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:46:31,793 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078890  5.007955  ...  0.360551  0.464364  0.553777
+EUR  0.078890  0.000000  5.086845  ...  0.439441  0.543253  0.632666
+JPY -5.007955 -5.086845  0.000000  ... -4.647404 -4.543591 -4.454178
+GBP  0.256691  0.177801  5.264646  ...  0.617242  0.721054  0.810467
+CHF  0.123377  0.044488  5.131332  ...  0.483929  0.587741  0.677154
+CAD -0.360551 -0.439441  4.647404  ...  0.000000  0.103812  0.193225
+AUD -0.464364 -0.543253  4.543591  ... -0.103812  0.000000  0.089413
+NZD -0.553777 -0.632666  4.454178  ... -0.193225 -0.089413  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:46:31,799 - stream_matrix - INFO - Updated USD_JPY: 149.597 (bid: 149.59, ask: 149.604)
+2025-03-21 05:46:32,051 - stream_matrix - INFO - Updated USD_JPY: 149.59449999999998 (bid: 149.588, ask: 149.601)
+2025-03-21 05:46:32,057 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:46:32,256 - stream_matrix - INFO - Updated USD_JPY: 149.59300000000002 (bid: 149.585, ask: 149.601)
+2025-03-21 05:46:34,006 - stream_matrix - INFO - Updated EUR_USD: 1.08208 (bid: 1.08201, ask: 1.08215)
+2025-03-21 05:46:34,011 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:34,017 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29253, ask: 1.29271)
+2025-03-21 05:46:34,022 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:34,509 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.29252, ask: 1.29269)
+2025-03-21 05:46:35,848 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57465, ask: 0.57489)
+2025-03-21 05:46:36,765 - stream_matrix - INFO - Updated USD_JPY: 149.5925 (bid: 149.584, ask: 149.601)
+2025-03-21 05:46:37,267 - stream_matrix - INFO - Updated EUR_USD: 1.082085 (bid: 1.08201, ask: 1.08216)
+2025-03-21 05:46:37,272 - stream_matrix - INFO - Updated USD_CHF: 0.88394 (bid: 0.88386, ask: 0.88402)
+2025-03-21 05:46:37,277 - stream_matrix - INFO - Updated USD_JPY: 149.59300000000002 (bid: 149.585, ask: 149.601)
+2025-03-21 05:46:37,282 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29253, ask: 1.29271)
+2025-03-21 05:46:37,531 - stream_matrix - INFO - Updated GBP_USD: 1.292615 (bid: 1.29252, ask: 1.29271)
+2025-03-21 05:46:37,782 - stream_matrix - INFO - Updated EUR_USD: 1.08208 (bid: 1.08201, ask: 1.08215)
+2025-03-21 05:46:37,787 - stream_matrix - INFO - Updated USD_CAD: 1.434175 (bid: 1.43408, ask: 1.43427)
+2025-03-21 05:46:37,792 - stream_matrix - INFO - Updated USD_JPY: 149.5935 (bid: 149.585, ask: 149.602)
+2025-03-21 05:46:37,797 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29253, ask: 1.29271)
+2025-03-21 05:46:38,094 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:38,299 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.29252, ask: 1.29269)
+2025-03-21 05:46:38,606 - stream_matrix - INFO - Updated USD_CAD: 1.434175 (bid: 1.43408, ask: 1.43427)
+2025-03-21 05:46:38,821 - stream_matrix - INFO - Updated EUR_USD: 1.082055 (bid: 1.08198, ask: 1.08213)
+2025-03-21 05:46:38,827 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:38,833 - stream_matrix - INFO - Updated USD_JPY: 149.59550000000002 (bid: 149.587, ask: 149.604)
+2025-03-21 05:46:38,839 - stream_matrix - INFO - Updated GBP_USD: 1.292595 (bid: 1.2925, ask: 1.29269)
+2025-03-21 05:46:39,118 - stream_matrix - INFO - Updated EUR_USD: 1.0820400000000001 (bid: 1.08196, ask: 1.08212)
+2025-03-21 05:46:39,937 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:40,757 - stream_matrix - INFO - Updated EUR_USD: 1.0820500000000002 (bid: 1.08197, ask: 1.08213)
+2025-03-21 05:46:40,763 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:40,768 - stream_matrix - INFO - Updated GBP_USD: 1.2925849999999999 (bid: 1.2925, ask: 1.29267)
+2025-03-21 05:46:40,773 - stream_matrix - INFO - Updated AUD_USD: 0.62851 (bid: 0.62844, ask: 0.62858)
+2025-03-21 05:46:40,779 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:46:40,960 - stream_matrix - INFO - Updated GBP_USD: 1.2925900000000001 (bid: 1.2925, ask: 1.29268)
+2025-03-21 05:46:41,269 - stream_matrix - INFO - Updated USD_CAD: 1.434185 (bid: 1.43409, ask: 1.43428)
+2025-03-21 05:46:41,473 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.2925, ask: 1.2927)
+2025-03-21 05:46:41,768 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:46:41,819 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078857  5.007935  ...  0.360597  0.464403  0.553803
+EUR  0.078857  0.000000  5.086792  ...  0.439454  0.543261  0.632660
+JPY -5.007935 -5.086792  0.000000  ... -4.647338 -4.543532 -4.454132
+GBP  0.256656  0.177798  5.264591  ...  0.617252  0.721059  0.810458
+CHF  0.123366  0.044509  5.131301  ...  0.483963  0.587769  0.677169
+CAD -0.360597 -0.439454  4.647338  ...  0.000000  0.103807  0.193206
+AUD -0.464403 -0.543261  4.543532  ... -0.103807  0.000000  0.089399
+NZD -0.553803 -0.632660  4.454132  ... -0.193206 -0.089399  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:46:41,825 - stream_matrix - INFO - Updated NZD_USD: 0.574755 (bid: 0.57464, ask: 0.57487)
+2025-03-21 05:46:42,203 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08195, ask: 1.08211)
+2025-03-21 05:46:42,208 - stream_matrix - INFO - Updated GBP_USD: 1.292595 (bid: 1.2925, ask: 1.29269)
+2025-03-21 05:46:42,520 - stream_matrix - INFO - Updated EUR_USD: 1.082015 (bid: 1.08194, ask: 1.08209)
+2025-03-21 05:46:42,525 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.2925, ask: 1.2927)
+2025-03-21 05:46:42,530 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57464, ask: 0.57489)
+2025-03-21 05:46:42,802 - stream_matrix - INFO - Updated EUR_USD: 1.082025 (bid: 1.08195, ask: 1.0821)
+2025-03-21 05:46:42,807 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:42,813 - stream_matrix - INFO - Updated USD_JPY: 149.59699999999998 (bid: 149.588, ask: 149.606)
+2025-03-21 05:46:44,542 - stream_matrix - INFO - Updated USD_JPY: 149.5965 (bid: 149.587, ask: 149.606)
+2025-03-21 05:46:44,856 - stream_matrix - INFO - Updated USD_JPY: 149.5965 (bid: 149.587, ask: 149.606)
+2025-03-21 05:46:44,997 - stream_matrix - INFO - Updated USD_JPY: 149.59699999999998 (bid: 149.588, ask: 149.606)
+2025-03-21 05:46:46,693 - stream_matrix - INFO - Updated USD_JPY: 149.5975 (bid: 149.589, ask: 149.606)
+2025-03-21 05:46:46,799 - stream_matrix - INFO - Updated EUR_USD: 1.08201 (bid: 1.08193, ask: 1.08209)
+2025-03-21 05:46:46,806 - stream_matrix - INFO - Updated USD_JPY: 149.59699999999998 (bid: 149.588, ask: 149.606)
+2025-03-21 05:46:46,812 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.2925, ask: 1.2927)
+2025-03-21 05:46:46,817 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:46:47,331 - stream_matrix - INFO - Updated USD_CHF: 0.883985 (bid: 0.8839, ask: 0.88407)
+2025-03-21 05:46:47,336 - stream_matrix - INFO - Updated USD_JPY: 149.5985 (bid: 149.589, ask: 149.608)
+2025-03-21 05:46:47,618 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08196, ask: 1.0821)
+2025-03-21 05:46:47,623 - stream_matrix - INFO - Updated USD_CHF: 0.883965 (bid: 0.88389, ask: 0.88404)
+2025-03-21 05:46:47,628 - stream_matrix - INFO - Updated USD_JPY: 149.5985 (bid: 149.59, ask: 149.607)
+2025-03-21 05:46:47,634 - stream_matrix - INFO - Updated GBP_USD: 1.29261 (bid: 1.29251, ask: 1.29271)
+2025-03-21 05:46:47,929 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08195, ask: 1.08211)
+2025-03-21 05:46:47,934 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.2925, ask: 1.29271)
+2025-03-21 05:46:48,120 - stream_matrix - INFO - Updated USD_CAD: 1.434185 (bid: 1.43409, ask: 1.43428)
+2025-03-21 05:46:48,127 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.2925, ask: 1.29271)
+2025-03-21 05:46:48,434 - stream_matrix - INFO - Updated EUR_USD: 1.0820349999999999 (bid: 1.08196, ask: 1.08211)
+2025-03-21 05:46:49,158 - stream_matrix - INFO - Updated AUD_USD: 0.628525 (bid: 0.62846, ask: 0.62859)
+2025-03-21 05:46:49,459 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08195, ask: 1.08211)
+2025-03-21 05:46:49,464 - stream_matrix - INFO - Updated USD_CHF: 0.883985 (bid: 0.8839, ask: 0.88407)
+2025-03-21 05:46:49,664 - stream_matrix - INFO - Updated EUR_USD: 1.0820349999999999 (bid: 1.08196, ask: 1.08211)
+2025-03-21 05:46:49,669 - stream_matrix - INFO - Updated USD_CHF: 0.883975 (bid: 0.8839, ask: 0.88405)
+2025-03-21 05:46:49,676 - stream_matrix - INFO - Updated USD_JPY: 149.599 (bid: 149.59, ask: 149.608)
+2025-03-21 05:46:49,681 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62846, ask: 0.6286)
+2025-03-21 05:46:50,177 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08195, ask: 1.08211)
+2025-03-21 05:46:50,482 - stream_matrix - INFO - Updated EUR_USD: 1.0820349999999999 (bid: 1.08196, ask: 1.08211)
+2025-03-21 05:46:51,202 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:51,207 - stream_matrix - INFO - Updated USD_JPY: 149.5995 (bid: 149.591, ask: 149.608)
+2025-03-21 05:46:51,712 - stream_matrix - INFO - Updated USD_JPY: 149.5985 (bid: 149.59, ask: 149.607)
+2025-03-21 05:46:52,005 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:46:52,055 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078844  5.007955  ...  0.360593  0.464372  0.553785
+EUR  0.078844  0.000000  5.086799  ...  0.439437  0.543215  0.632629
+JPY -5.007955 -5.086799  0.000000  ... -4.647362 -4.543584 -4.454170
+GBP  0.256660  0.177816  5.264615  ...  0.617253  0.721031  0.810445
+CHF  0.123326  0.044483  5.131282  ...  0.483920  0.587698  0.677112
+CAD -0.360593 -0.439437  4.647362  ...  0.000000  0.103778  0.193192
+AUD -0.464372 -0.543215  4.543584  ... -0.103778  0.000000  0.089414
+NZD -0.553785 -0.632629  4.454170  ... -0.193192 -0.089414  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:46:52,534 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.2925, ask: 1.2927)
+2025-03-21 05:46:54,272 - stream_matrix - INFO - Updated EUR_USD: 1.082045 (bid: 1.08197, ask: 1.08212)
+2025-03-21 05:46:54,277 - stream_matrix - INFO - Updated USD_JPY: 149.591 (bid: 149.583, ask: 149.599)
+2025-03-21 05:46:54,283 - stream_matrix - INFO - Updated GBP_USD: 1.292615 (bid: 1.29252, ask: 1.29271)
+2025-03-21 05:46:54,288 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57465, ask: 0.5749)
+2025-03-21 05:46:54,579 - stream_matrix - INFO - Updated USD_JPY: 149.5915 (bid: 149.583, ask: 149.6)
+2025-03-21 05:46:55,013 - stream_matrix - INFO - Updated GBP_USD: 1.2926199999999999 (bid: 1.29252, ask: 1.29272)
+2025-03-21 05:46:55,911 - stream_matrix - INFO - Updated USD_CAD: 1.434175 (bid: 1.43408, ask: 1.43427)
+2025-03-21 05:46:55,916 - stream_matrix - INFO - Updated USD_JPY: 149.59199999999998 (bid: 149.583, ask: 149.601)
+2025-03-21 05:46:56,217 - stream_matrix - INFO - Updated USD_CAD: 1.43418 (bid: 1.43409, ask: 1.43427)
+2025-03-21 05:46:56,223 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57465, ask: 0.57487)
+2025-03-21 05:46:58,074 - stream_matrix - INFO - Updated GBP_USD: 1.292615 (bid: 1.29252, ask: 1.29271)
+2025-03-21 05:46:58,398 - stream_matrix - INFO - Updated EUR_USD: 1.0820400000000001 (bid: 1.08196, ask: 1.08212)
+2025-03-21 05:46:58,404 - stream_matrix - INFO - Updated USD_CAD: 1.434225 (bid: 1.43414, ask: 1.43431)
+2025-03-21 05:46:58,409 - stream_matrix - INFO - Updated NZD_USD: 0.574755 (bid: 0.57464, ask: 0.57487)
+2025-03-21 05:46:58,414 - stream_matrix - INFO - System health metrics:
+2025-03-21 05:46:58,419 - stream_matrix - INFO - Uptime: 21h 12m 8s
+2025-03-21 05:46:58,425 - stream_matrix - INFO - Total updates: 415600
+2025-03-21 05:46:58,433 - stream_matrix - INFO - Updates per minute: 326.69
+2025-03-21 05:46:58,439 - stream_matrix - INFO - Connection attempts: 13
+2025-03-21 05:46:58,444 - stream_matrix - INFO - Matrix updates: 7297
+2025-03-21 05:46:58,449 - stream_matrix - INFO - Arbitrage opportunities: 0
+2025-03-21 05:46:58,455 - stream_matrix - INFO - Circuit breaker: CLOSED
+2025-03-21 05:46:58,460 - stream_matrix - INFO - Time since last update: 0.05s
+2025-03-21 05:46:58,675 - stream_matrix - INFO - Updated EUR_USD: 1.0820400000000001 (bid: 1.08196, ask: 1.08212)
+2025-03-21 05:47:00,019 - stream_matrix - INFO - Updated EUR_USD: 1.0820349999999999 (bid: 1.08196, ask: 1.08211)
+2025-03-21 05:47:00,025 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.2925, ask: 1.29271)
+2025-03-21 05:47:00,031 - stream_matrix - INFO - Updated AUD_USD: 0.628525 (bid: 0.62846, ask: 0.62859)
+2025-03-21 05:47:00,041 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57465, ask: 0.57487)
+2025-03-21 05:47:00,518 - stream_matrix - INFO - Updated EUR_USD: 1.0820400000000001 (bid: 1.08196, ask: 1.08212)
+2025-03-21 05:47:00,524 - stream_matrix - INFO - Updated USD_JPY: 149.5925 (bid: 149.584, ask: 149.601)
+2025-03-21 05:47:00,724 - stream_matrix - INFO - Updated USD_CAD: 1.43423 (bid: 1.43415, ask: 1.43431)
+2025-03-21 05:47:01,040 - stream_matrix - INFO - Updated USD_CAD: 1.434225 (bid: 1.43415, ask: 1.4343)
+2025-03-21 05:47:01,549 - stream_matrix - INFO - Updated USD_JPY: 149.59199999999998 (bid: 149.583, ask: 149.601)
+2025-03-21 05:47:01,748 - stream_matrix - INFO - Updated USD_JPY: 149.5925 (bid: 149.584, ask: 149.601)
+2025-03-21 05:47:02,050 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:47:02,101 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078848  5.007915  ...  0.360625  0.464379  0.553803
+EUR  0.078848  0.000000  5.086763  ...  0.439473  0.543228  0.632651
+JPY -5.007915 -5.086763  0.000000  ... -4.647290 -4.543535 -4.454112
+GBP  0.256660  0.177811  5.264574  ...  0.617284  0.721039  0.810462
+CHF  0.123326  0.044478  5.131241  ...  0.483951  0.587706  0.677129
+CAD -0.360625 -0.439473  4.647290  ...  0.000000  0.103755  0.193178
+AUD -0.464379 -0.543228  4.543535  ... -0.103755  0.000000  0.089423
+NZD -0.553803 -0.632651  4.454112  ... -0.193178 -0.089423  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:47:02,108 - stream_matrix - INFO - Updated EUR_USD: 1.082025 (bid: 1.08195, ask: 1.0821)
+2025-03-21 05:47:02,113 - stream_matrix - INFO - Updated USD_CHF: 0.883975 (bid: 0.88389, ask: 0.88406)
+2025-03-21 05:47:02,118 - stream_matrix - INFO - Updated USD_JPY: 149.5935 (bid: 149.586, ask: 149.601)
+2025-03-21 05:47:02,264 - stream_matrix - INFO - Updated USD_CHF: 0.883965 (bid: 0.88389, ask: 0.88404)
+2025-03-21 05:47:02,270 - stream_matrix - INFO - Updated USD_JPY: 149.59199999999998 (bid: 149.583, ask: 149.601)
+2025-03-21 05:47:02,567 - stream_matrix - INFO - Updated USD_JPY: 149.5925 (bid: 149.584, ask: 149.601)
+2025-03-21 05:47:02,882 - stream_matrix - INFO - Updated EUR_USD: 1.082045 (bid: 1.08197, ask: 1.08212)
+2025-03-21 05:47:02,886 - stream_matrix - INFO - Updated USD_JPY: 149.5925 (bid: 149.584, ask: 149.601)
+2025-03-21 05:47:03,800 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.29251, ask: 1.29269)
+2025-03-21 05:47:04,411 - stream_matrix - INFO - Updated USD_JPY: 149.59199999999998 (bid: 149.583, ask: 149.601)
+2025-03-21 05:47:04,416 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.29251, ask: 1.2927)
+2025-03-21 05:47:04,421 - stream_matrix - INFO - Updated AUD_USD: 0.62853 (bid: 0.62846, ask: 0.6286)
+2025-03-21 05:47:04,616 - stream_matrix - INFO - Updated USD_JPY: 149.5925 (bid: 149.584, ask: 149.601)
+2025-03-21 05:47:04,621 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.29251, ask: 1.29269)
+2025-03-21 05:47:04,922 - stream_matrix - INFO - Updated USD_JPY: 149.59199999999998 (bid: 149.583, ask: 149.601)
+2025-03-21 05:47:05,955 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08195, ask: 1.08211)
+2025-03-21 05:47:05,960 - stream_matrix - INFO - Updated USD_CAD: 1.4342199999999998 (bid: 1.43414, ask: 1.4343)
+2025-03-21 05:47:05,965 - stream_matrix - INFO - Updated USD_CHF: 0.883985 (bid: 0.8839, ask: 0.88407)
+2025-03-21 05:47:05,972 - stream_matrix - INFO - Updated GBP_USD: 1.292595 (bid: 1.2925, ask: 1.29269)
+2025-03-21 05:47:05,976 - stream_matrix - INFO - Updated AUD_USD: 0.628525 (bid: 0.62846, ask: 0.62859)
+2025-03-21 05:47:05,982 - stream_matrix - INFO - Updated NZD_USD: 0.574735 (bid: 0.57462, ask: 0.57485)
+2025-03-21 05:47:06,254 - stream_matrix - INFO - Updated EUR_USD: 1.082055 (bid: 1.08198, ask: 1.08213)
+2025-03-21 05:47:06,260 - stream_matrix - INFO - Updated USD_CHF: 0.883965 (bid: 0.88389, ask: 0.88404)
+2025-03-21 05:47:06,266 - stream_matrix - INFO - Updated USD_JPY: 149.5845 (bid: 149.576, ask: 149.593)
+2025-03-21 05:47:06,271 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57465, ask: 0.57487)
+2025-03-21 05:47:06,561 - stream_matrix - INFO - Updated EUR_USD: 1.08206 (bid: 1.08198, ask: 1.08214)
+2025-03-21 05:47:06,566 - stream_matrix - INFO - Updated USD_JPY: 149.584 (bid: 149.575, ask: 149.593)
+2025-03-21 05:47:06,572 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.29251, ask: 1.29269)
+2025-03-21 05:47:06,765 - stream_matrix - INFO - Updated GBP_USD: 1.292595 (bid: 1.2925, ask: 1.29269)
+2025-03-21 05:47:08,304 - stream_matrix - INFO - Updated EUR_USD: 1.082065 (bid: 1.08199, ask: 1.08214)
+2025-03-21 05:47:08,506 - stream_matrix - INFO - Updated USD_JPY: 149.5845 (bid: 149.576, ask: 149.593)
+2025-03-21 05:47:10,862 - stream_matrix - INFO - Updated AUD_USD: 0.62851 (bid: 0.62844, ask: 0.62858)
+2025-03-21 05:47:11,891 - stream_matrix - INFO - Updated AUD_USD: 0.628525 (bid: 0.62846, ask: 0.62859)
+2025-03-21 05:47:12,202 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:47:12,253 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078871  5.007861  ...  0.360621  0.464379  0.553803
+EUR  0.078871  0.000000  5.086733  ...  0.439492  0.543251  0.632674
+JPY -5.007861 -5.086733  0.000000  ... -4.647240 -4.543482 -4.454059
+GBP  0.256652  0.177781  5.264513  ...  0.617273  0.721031  0.810455
+CHF  0.123338  0.044467  5.131199  ...  0.483959  0.587717  0.677141
+CAD -0.360621 -0.439492  4.647240  ...  0.000000  0.103758  0.193182
+AUD -0.464379 -0.543251  4.543482  ... -0.103758  0.000000  0.089423
+NZD -0.553803 -0.632674  4.454059  ... -0.193182 -0.089423  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:47:12,394 - stream_matrix - INFO - Updated EUR_USD: 1.08206 (bid: 1.08198, ask: 1.08214)
+2025-03-21 05:47:13,419 - stream_matrix - INFO - Updated USD_JPY: 149.58350000000002 (bid: 149.576, ask: 149.591)
+2025-03-21 05:47:13,931 - stream_matrix - INFO - Updated USD_JPY: 149.584 (bid: 149.576, ask: 149.592)
+2025-03-21 05:47:14,136 - stream_matrix - INFO - Updated USD_JPY: 149.58100000000002 (bid: 149.572, ask: 149.59)
+2025-03-21 05:47:14,366 - stream_matrix - INFO - Updated USD_CHF: 0.883955 (bid: 0.88387, ask: 0.88404)
+2025-03-21 05:47:14,371 - stream_matrix - INFO - Updated USD_JPY: 149.5815 (bid: 149.573, ask: 149.59)
+2025-03-21 05:47:14,619 - stream_matrix - INFO - Updated USD_JPY: 149.583 (bid: 149.575, ask: 149.591)
+2025-03-21 05:47:14,962 - stream_matrix - INFO - Updated USD_JPY: 149.584 (bid: 149.575, ask: 149.593)
+2025-03-21 05:47:15,160 - stream_matrix - INFO - Updated USD_CAD: 1.434225 (bid: 1.43415, ask: 1.4343)
+2025-03-21 05:47:15,989 - stream_matrix - INFO - Updated EUR_USD: 1.082055 (bid: 1.08198, ask: 1.08213)
+2025-03-21 05:47:15,994 - stream_matrix - INFO - Updated USD_JPY: 149.58249999999998 (bid: 149.575, ask: 149.59)
+2025-03-21 05:47:16,000 - stream_matrix - INFO - Updated GBP_USD: 1.2926 (bid: 1.29251, ask: 1.29269)
+2025-03-21 05:47:16,287 - stream_matrix - INFO - Updated EUR_USD: 1.0820349999999999 (bid: 1.08196, ask: 1.08211)
+2025-03-21 05:47:16,292 - stream_matrix - INFO - Updated USD_CAD: 1.434415 (bid: 1.43433, ask: 1.4345)
+2025-03-21 05:47:16,298 - stream_matrix - INFO - Updated USD_JPY: 149.581 (bid: 149.575, ask: 149.587)
+2025-03-21 05:47:16,303 - stream_matrix - INFO - Updated GBP_USD: 1.292595 (bid: 1.2925, ask: 1.29269)
+2025-03-21 05:47:16,307 - stream_matrix - INFO - Updated AUD_USD: 0.628475 (bid: 0.62841, ask: 0.62854)
+2025-03-21 05:47:16,492 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08195, ask: 1.08211)
+2025-03-21 05:47:16,497 - stream_matrix - INFO - Updated USD_CAD: 1.4344000000000001 (bid: 1.43432, ask: 1.43448)
+2025-03-21 05:47:16,504 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.573, ask: 149.587)
+2025-03-21 05:47:16,509 - stream_matrix - INFO - Updated AUD_USD: 0.62848 (bid: 0.62841, ask: 0.62855)
+2025-03-21 05:47:16,800 - stream_matrix - INFO - Updated EUR_USD: 1.0820349999999999 (bid: 1.08196, ask: 1.08211)
+2025-03-21 05:47:16,805 - stream_matrix - INFO - Updated USD_CAD: 1.43439 (bid: 1.4343, ask: 1.43448)
+2025-03-21 05:47:16,810 - stream_matrix - INFO - Updated USD_JPY: 149.582 (bid: 149.576, ask: 149.588)
+2025-03-21 05:47:16,816 - stream_matrix - INFO - Updated AUD_USD: 0.628495 (bid: 0.62843, ask: 0.62856)
+2025-03-21 05:47:16,821 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57465, ask: 0.57489)
+2025-03-21 05:47:17,108 - stream_matrix - INFO - Updated USD_CAD: 1.43438 (bid: 1.4343, ask: 1.43446)
+2025-03-21 05:47:17,113 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:47:17,311 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57465, ask: 0.57489)
+2025-03-21 05:47:17,618 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:47:17,833 - stream_matrix - INFO - Updated EUR_USD: 1.08203 (bid: 1.08196, ask: 1.0821)
+2025-03-21 05:47:17,838 - stream_matrix - INFO - Updated USD_CAD: 1.4343650000000001 (bid: 1.43427, ask: 1.43446)
+2025-03-21 05:47:17,843 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.573, ask: 149.587)
+2025-03-21 05:47:17,849 - stream_matrix - INFO - Updated AUD_USD: 0.62847 (bid: 0.6284, ask: 0.62854)
+2025-03-21 05:47:17,854 - stream_matrix - INFO - Updated NZD_USD: 0.5747450000000001 (bid: 0.57462, ask: 0.57487)
+2025-03-21 05:47:18,136 - stream_matrix - INFO - Updated EUR_USD: 1.082025 (bid: 1.08195, ask: 1.0821)
+2025-03-21 05:47:18,142 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:18,147 - stream_matrix - INFO - Updated USD_CHF: 0.8839699999999999 (bid: 0.88388, ask: 0.88406)
+2025-03-21 05:47:18,152 - stream_matrix - INFO - Updated USD_JPY: 149.58100000000002 (bid: 149.574, ask: 149.588)
+2025-03-21 05:47:18,158 - stream_matrix - INFO - Updated AUD_USD: 0.62846 (bid: 0.62839, ask: 0.62853)
+2025-03-21 05:47:18,163 - stream_matrix - INFO - Updated NZD_USD: 0.574735 (bid: 0.57462, ask: 0.57485)
+2025-03-21 05:47:18,437 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43424, ask: 1.43445)
+2025-03-21 05:47:18,443 - stream_matrix - INFO - Updated AUD_USD: 0.62846 (bid: 0.62839, ask: 0.62853)
+2025-03-21 05:47:18,448 - stream_matrix - INFO - Updated NZD_USD: 0.57474 (bid: 0.57462, ask: 0.57486)
+2025-03-21 05:47:18,744 - stream_matrix - INFO - Updated USD_CAD: 1.434335 (bid: 1.43424, ask: 1.43443)
+2025-03-21 05:47:19,263 - stream_matrix - INFO - Updated AUD_USD: 0.62845 (bid: 0.62839, ask: 0.62851)
+2025-03-21 05:47:19,269 - stream_matrix - INFO - Updated NZD_USD: 0.574735 (bid: 0.57462, ask: 0.57485)
+2025-03-21 05:47:19,461 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:19,687 - stream_matrix - INFO - Updated NZD_USD: 0.57474 (bid: 0.57462, ask: 0.57486)
+2025-03-21 05:47:19,936 - stream_matrix - INFO - Updated USD_CAD: 1.434355 (bid: 1.43426, ask: 1.43445)
+2025-03-21 05:47:19,942 - stream_matrix - INFO - Updated USD_JPY: 149.58100000000002 (bid: 149.573, ask: 149.589)
+2025-03-21 05:47:20,280 - stream_matrix - INFO - Updated USD_CAD: 1.4343750000000002 (bid: 1.43429, ask: 1.43446)
+2025-03-21 05:47:22,329 - stream_matrix - INFO - Updated USD_CAD: 1.4343650000000001 (bid: 1.43427, ask: 1.43446)
+2025-03-21 05:47:22,620 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:47:22,669 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078834  5.007838  ...  0.360722  0.464499  0.553838
+EUR  0.078834  0.000000  5.086672  ...  0.439557  0.543333  0.632672
+JPY -5.007838 -5.086672  0.000000  ... -4.647116 -4.543339 -4.454001
+GBP  0.256652  0.177818  5.264490  ...  0.617374  0.721151  0.810489
+CHF  0.123332  0.044498  5.131170  ...  0.484054  0.587831  0.677170
+CAD -0.360722 -0.439557  4.647116  ...  0.000000  0.103777  0.193115
+AUD -0.464499 -0.543333  4.543339  ... -0.103777  0.000000  0.089339
+NZD -0.553838 -0.632672  4.454001  ... -0.193115 -0.089339  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:47:22,698 - stream_matrix - INFO - Matrix snapshot saved to /app/data/exchange_matrix_20250321_054722.csv
+2025-03-21 05:47:22,704 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:22,710 - stream_matrix - INFO - Updated EUR_USD: 1.082065 (bid: 1.08199, ask: 1.08214)
+2025-03-21 05:47:22,715 - stream_matrix - INFO - Updated USD_CAD: 1.43436 (bid: 1.43426, ask: 1.43446)
+2025-03-21 05:47:22,721 - stream_matrix - INFO - System health metrics:
+2025-03-21 05:47:22,726 - stream_matrix - INFO - Uptime: 21h 12m 33s
+2025-03-21 05:47:22,731 - stream_matrix - INFO - Total updates: 415700
+2025-03-21 05:47:22,736 - stream_matrix - INFO - Updates per minute: 326.67
+2025-03-21 05:47:22,741 - stream_matrix - INFO - Connection attempts: 13
+2025-03-21 05:47:22,746 - stream_matrix - INFO - Matrix updates: 7300
+2025-03-21 05:47:22,752 - stream_matrix - INFO - Arbitrage opportunities: 0
+2025-03-21 05:47:22,757 - stream_matrix - INFO - Circuit breaker: CLOSED
+2025-03-21 05:47:22,762 - stream_matrix - INFO - Time since last update: 0.05s
+2025-03-21 05:47:22,767 - stream_matrix - INFO - Updated USD_CHF: 0.883955 (bid: 0.88387, ask: 0.88404)
+2025-03-21 05:47:22,773 - stream_matrix - INFO - Updated NZD_USD: 0.5747549999999999 (bid: 0.57463, ask: 0.57488)
+2025-03-21 05:47:22,840 - stream_matrix - INFO - Updated AUD_USD: 0.62846 (bid: 0.62839, ask: 0.62853)
+2025-03-21 05:47:23,354 - stream_matrix - INFO - Updated USD_CAD: 1.43437 (bid: 1.43428, ask: 1.43446)
+2025-03-21 05:47:23,557 - stream_matrix - INFO - Updated USD_CAD: 1.4343650000000001 (bid: 1.43427, ask: 1.43446)
+2025-03-21 05:47:23,974 - stream_matrix - INFO - Updated USD_CAD: 1.4343650000000001 (bid: 1.43427, ask: 1.43446)
+2025-03-21 05:47:23,979 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.573, ask: 149.587)
+2025-03-21 05:47:24,033 - stream_matrix - INFO - Updated USD_CAD: 1.43437 (bid: 1.43428, ask: 1.43446)
+2025-03-21 05:47:24,419 - stream_matrix - INFO - Updated USD_CAD: 1.4343650000000001 (bid: 1.43427, ask: 1.43446)
+2025-03-21 05:47:24,424 - stream_matrix - INFO - Updated USD_JPY: 149.5795 (bid: 149.572, ask: 149.587)
+2025-03-21 05:47:24,557 - stream_matrix - INFO - Updated USD_CAD: 1.43437 (bid: 1.43428, ask: 1.43446)
+2025-03-21 05:47:25,041 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.572, ask: 149.588)
+2025-03-21 05:47:25,299 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.572, ask: 149.588)
+2025-03-21 05:47:25,583 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.572, ask: 149.588)
+2025-03-21 05:47:25,914 - stream_matrix - INFO - Updated USD_JPY: 149.5795 (bid: 149.572, ask: 149.587)
+2025-03-21 05:47:27,655 - stream_matrix - INFO - Updated USD_CAD: 1.4343750000000002 (bid: 1.43429, ask: 1.43446)
+2025-03-21 05:47:27,660 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.572, ask: 149.588)
+2025-03-21 05:47:27,666 - stream_matrix - INFO - Updated NZD_USD: 0.574735 (bid: 0.57462, ask: 0.57485)
+2025-03-21 05:47:28,074 - stream_matrix - INFO - Updated USD_CAD: 1.43437 (bid: 1.43428, ask: 1.43446)
+2025-03-21 05:47:28,079 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:28,145 - stream_matrix - INFO - Updated NZD_USD: 0.57474 (bid: 0.57462, ask: 0.57486)
+2025-03-21 05:47:29,497 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.572, ask: 149.588)
+2025-03-21 05:47:30,019 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:31,649 - stream_matrix - INFO - Updated USD_JPY: 149.58100000000002 (bid: 149.574, ask: 149.588)
+2025-03-21 05:47:31,724 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:32,058 - stream_matrix - INFO - Updated EUR_USD: 1.08206 (bid: 1.08199, ask: 1.08213)
+2025-03-21 05:47:32,063 - stream_matrix - INFO - Updated USD_CAD: 1.4343750000000002 (bid: 1.43429, ask: 1.43446)
+2025-03-21 05:47:32,068 - stream_matrix - INFO - Updated USD_JPY: 149.57999999999998 (bid: 149.572, ask: 149.588)
+2025-03-21 05:47:32,262 - stream_matrix - INFO - Updated EUR_USD: 1.082065 (bid: 1.08199, ask: 1.08214)
+2025-03-21 05:47:32,267 - stream_matrix - INFO - Updated USD_CAD: 1.43437 (bid: 1.43428, ask: 1.43446)
+2025-03-21 05:47:32,273 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:32,785 - stream_matrix - INFO - Updated USD_CAD: 1.4343599999999999 (bid: 1.43427, ask: 1.43445)
+2025-03-21 05:47:33,077 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:47:33,131 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078871  5.007835  ...  0.360719  0.464483  0.553838
+EUR  0.078871  0.000000  5.086706  ...  0.439590  0.543354  0.632709
+JPY -5.007835 -5.086706  0.000000  ... -4.647116 -4.543352 -4.453997
+GBP  0.256652  0.177781  5.264487  ...  0.617371  0.721135  0.810489
+CHF  0.123349  0.044478  5.131184  ...  0.484068  0.587832  0.677187
+CAD -0.360719 -0.439590  4.647116  ...  0.000000  0.103764  0.193119
+AUD -0.464483 -0.543354  4.543352  ... -0.103764  0.000000  0.089355
+NZD -0.553838 -0.632709  4.453997  ... -0.193119 -0.089355  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:47:33,137 - stream_matrix - INFO - Updated NZD_USD: 0.5747450000000001 (bid: 0.57463, ask: 0.57486)
+2025-03-21 05:47:33,142 - stream_matrix - INFO - Updated EUR_USD: 1.08208 (bid: 1.08201, ask: 1.08215)
+2025-03-21 05:47:33,147 - stream_matrix - INFO - Updated USD_CAD: 1.4343650000000001 (bid: 1.43428, ask: 1.43445)
+2025-03-21 05:47:33,153 - stream_matrix - INFO - Updated NZD_USD: 0.574735 (bid: 0.57462, ask: 0.57485)
+2025-03-21 05:47:33,389 - stream_matrix - INFO - Updated NZD_USD: 0.57474 (bid: 0.57462, ask: 0.57486)
+2025-03-21 05:47:33,636 - stream_matrix - INFO - Updated USD_CAD: 1.4343599999999999 (bid: 1.43427, ask: 1.43445)
+2025-03-21 05:47:34,113 - stream_matrix - INFO - Updated EUR_USD: 1.082085 (bid: 1.08201, ask: 1.08216)
+2025-03-21 05:47:34,118 - stream_matrix - INFO - Updated USD_JPY: 149.5805 (bid: 149.573, ask: 149.588)
+2025-03-21 05:47:34,123 - stream_matrix - INFO - Updated NZD_USD: 0.5747450000000001 (bid: 0.57463, ask: 0.57486)
+2025-03-21 05:47:34,414 - stream_matrix - INFO - Updated USD_CHF: 0.883945 (bid: 0.88387, ask: 0.88402)
+2025-03-21 05:47:34,419 - stream_matrix - INFO - Updated USD_JPY: 149.575 (bid: 149.567, ask: 149.583)
+2025-03-21 05:47:34,618 - stream_matrix - INFO - Updated USD_CHF: 0.88394 (bid: 0.88386, ask: 0.88402)
+2025-03-21 05:47:34,623 - stream_matrix - INFO - Updated USD_JPY: 149.5755 (bid: 149.567, ask: 149.584)
+2025-03-21 05:47:34,628 - stream_matrix - INFO - Updated NZD_USD: 0.5747549999999999 (bid: 0.57463, ask: 0.57488)
+2025-03-21 05:47:34,925 - stream_matrix - INFO - Updated USD_JPY: 149.57600000000002 (bid: 149.567, ask: 149.585)
+2025-03-21 05:47:35,233 - stream_matrix - INFO - Updated USD_JPY: 149.57600000000002 (bid: 149.567, ask: 149.585)
+2025-03-21 05:47:35,437 - stream_matrix - INFO - Updated USD_JPY: 149.57600000000002 (bid: 149.567, ask: 149.585)
+2025-03-21 05:47:35,755 - stream_matrix - INFO - Updated USD_JPY: 149.57600000000002 (bid: 149.567, ask: 149.585)
+2025-03-21 05:47:35,899 - stream_matrix - INFO - Updated USD_JPY: 149.57600000000002 (bid: 149.567, ask: 149.585)
+2025-03-21 05:47:36,495 - stream_matrix - INFO - Updated EUR_USD: 1.082095 (bid: 1.08202, ask: 1.08217)
+2025-03-21 05:47:36,500 - stream_matrix - INFO - Updated GBP_USD: 1.2926099999999998 (bid: 1.29252, ask: 1.2927)
+2025-03-21 05:47:36,505 - stream_matrix - INFO - Updated NZD_USD: 0.5747450000000001 (bid: 0.57463, ask: 0.57486)
+2025-03-21 05:47:36,768 - stream_matrix - INFO - Updated USD_JPY: 149.5755 (bid: 149.567, ask: 149.584)
+2025-03-21 05:47:37,030 - stream_matrix - INFO - Updated EUR_USD: 1.082125 (bid: 1.08205, ask: 1.0822)
+2025-03-21 05:47:37,036 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43425, ask: 1.43445)
+2025-03-21 05:47:37,042 - stream_matrix - INFO - Updated USD_JPY: 149.575 (bid: 149.567, ask: 149.583)
+2025-03-21 05:47:37,048 - stream_matrix - INFO - Updated GBP_USD: 1.29264 (bid: 1.29255, ask: 1.29273)
+2025-03-21 05:47:37,280 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:37,287 - stream_matrix - INFO - Updated USD_JPY: 149.5755 (bid: 149.567, ask: 149.584)
+2025-03-21 05:47:37,292 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:47:37,588 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43426, ask: 1.43444)
+2025-03-21 05:47:37,593 - stream_matrix - INFO - Updated USD_JPY: 149.57600000000002 (bid: 149.567, ask: 149.585)
+2025-03-21 05:47:37,598 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29255, ask: 1.29271)
+2025-03-21 05:47:37,808 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:37,813 - stream_matrix - INFO - Updated USD_JPY: 149.5755 (bid: 149.567, ask: 149.584)
+2025-03-21 05:47:38,315 - stream_matrix - INFO - Updated EUR_USD: 1.08212 (bid: 1.08204, ask: 1.0822)
+2025-03-21 05:47:38,324 - stream_matrix - INFO - Updated GBP_USD: 1.2926350000000002 (bid: 1.29255, ask: 1.29272)
+2025-03-21 05:47:39,124 - stream_matrix - INFO - Updated USD_JPY: 149.5745 (bid: 149.567, ask: 149.582)
+2025-03-21 05:47:39,431 - stream_matrix - INFO - Updated USD_JPY: 149.57150000000001 (bid: 149.564, ask: 149.579)
+2025-03-21 05:47:39,578 - stream_matrix - INFO - Updated NZD_USD: 0.5747549999999999 (bid: 0.57463, ask: 0.57488)
+2025-03-21 05:47:40,155 - stream_matrix - INFO - Updated USD_JPY: 149.571 (bid: 149.563, ask: 149.579)
+2025-03-21 05:47:40,354 - stream_matrix - INFO - Updated EUR_USD: 1.082125 (bid: 1.08205, ask: 1.0822)
+2025-03-21 05:47:40,660 - stream_matrix - INFO - Updated USD_JPY: 149.57049999999998 (bid: 149.563, ask: 149.578)
+2025-03-21 05:47:40,865 - stream_matrix - INFO - Updated USD_JPY: 149.571 (bid: 149.563, ask: 149.579)
+2025-03-21 05:47:41,174 - stream_matrix - INFO - Updated USD_JPY: 149.571 (bid: 149.563, ask: 149.579)
+2025-03-21 05:47:41,347 - stream_matrix - INFO - Updated EUR_USD: 1.082125 (bid: 1.08205, ask: 1.0822)
+2025-03-21 05:47:41,352 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43425, ask: 1.43445)
+2025-03-21 05:47:41,357 - stream_matrix - INFO - Updated USD_CHF: 0.88393 (bid: 0.88386, ask: 0.884)
+2025-03-21 05:47:42,194 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:42,199 - stream_matrix - INFO - Updated USD_JPY: 149.57049999999998 (bid: 149.563, ask: 149.578)
+2025-03-21 05:47:42,398 - stream_matrix - INFO - Updated EUR_USD: 1.082115 (bid: 1.08204, ask: 1.08219)
+2025-03-21 05:47:42,403 - stream_matrix - INFO - Updated USD_JPY: 149.5675 (bid: 149.56, ask: 149.575)
+2025-03-21 05:47:42,705 - stream_matrix - INFO - Updated USD_JPY: 149.5655 (bid: 149.557, ask: 149.574)
+2025-03-21 05:47:43,022 - stream_matrix - INFO - Updated USD_JPY: 149.564 (bid: 149.557, ask: 149.571)
+2025-03-21 05:47:43,357 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:47:43,420 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078917  5.007724  ...  0.360708  0.464483  0.553811
+EUR  0.078917  0.000000  5.086642  ...  0.439626  0.543400  0.632729
+JPY -5.007724 -5.086642  0.000000  ... -4.647016 -4.543241 -4.453913
+GBP  0.256683  0.177765  5.264407  ...  0.617391  0.721166  0.810494
+CHF  0.123377  0.044460  5.131102  ...  0.484086  0.587860  0.677189
+CAD -0.360708 -0.439626  4.647016  ...  0.000000  0.103775  0.193103
+AUD -0.464483 -0.543400  4.543241  ... -0.103775  0.000000  0.089329
+NZD -0.553811 -0.632729  4.453913  ... -0.193103 -0.089329  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:47:44,036 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43426, ask: 1.43444)
+2025-03-21 05:47:44,042 - stream_matrix - INFO - Updated USD_JPY: 149.5665 (bid: 149.558, ask: 149.575)
+2025-03-21 05:47:44,449 - stream_matrix - INFO - Updated USD_JPY: 149.5655 (bid: 149.558, ask: 149.573)
+2025-03-21 05:47:44,455 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:47:44,766 - stream_matrix - INFO - Updated EUR_USD: 1.082135 (bid: 1.08206, ask: 1.08221)
+2025-03-21 05:47:44,771 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:44,776 - stream_matrix - INFO - Updated USD_JPY: 149.5655 (bid: 149.558, ask: 149.573)
+2025-03-21 05:47:45,065 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29256, ask: 1.29275)
+2025-03-21 05:47:45,265 - stream_matrix - INFO - Updated USD_JPY: 149.566 (bid: 149.559, ask: 149.573)
+2025-03-21 05:47:45,270 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29256, ask: 1.29275)
+2025-03-21 05:47:45,574 - stream_matrix - INFO - Updated USD_JPY: 149.565 (bid: 149.558, ask: 149.572)
+2025-03-21 05:47:45,778 - stream_matrix - INFO - Updated USD_JPY: 149.5645 (bid: 149.557, ask: 149.572)
+2025-03-21 05:47:46,092 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:47:46,098 - stream_matrix - INFO - Updated USD_JPY: 149.562 (bid: 149.554, ask: 149.57)
+2025-03-21 05:47:46,103 - stream_matrix - INFO - System health metrics:
+2025-03-21 05:47:46,108 - stream_matrix - INFO - Uptime: 21h 12m 56s
+2025-03-21 05:47:46,114 - stream_matrix - INFO - Total updates: 415800
+2025-03-21 05:47:46,119 - stream_matrix - INFO - Updates per minute: 326.64
+2025-03-21 05:47:46,124 - stream_matrix - INFO - Connection attempts: 13
+2025-03-21 05:47:46,129 - stream_matrix - INFO - Matrix updates: 7302
+2025-03-21 05:47:46,134 - stream_matrix - INFO - Arbitrage opportunities: 0
+2025-03-21 05:47:46,140 - stream_matrix - INFO - Circuit breaker: CLOSED
+2025-03-21 05:47:46,146 - stream_matrix - INFO - Time since last update: 0.05s
+2025-03-21 05:47:46,151 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29256, ask: 1.29275)
+2025-03-21 05:47:46,157 - stream_matrix - INFO - Updated NZD_USD: 0.574755 (bid: 0.57464, ask: 0.57487)
+2025-03-21 05:47:46,292 - stream_matrix - INFO - Updated USD_CAD: 1.43434 (bid: 1.43424, ask: 1.43444)
+2025-03-21 05:47:46,599 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:47:46,605 - stream_matrix - INFO - Updated USD_CHF: 0.88391 (bid: 0.88383, ask: 0.88399)
+2025-03-21 05:47:46,611 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:47:47,071 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:47,076 - stream_matrix - INFO - Updated USD_JPY: 149.56099999999998 (bid: 149.553, ask: 149.569)
+2025-03-21 05:47:47,081 - stream_matrix - INFO - Updated GBP_USD: 1.29264 (bid: 1.29255, ask: 1.29273)
+2025-03-21 05:47:47,315 - stream_matrix - INFO - Updated GBP_USD: 1.292645 (bid: 1.29255, ask: 1.29274)
+2025-03-21 05:47:47,621 - stream_matrix - INFO - Updated USD_CAD: 1.43434 (bid: 1.43424, ask: 1.43444)
+2025-03-21 05:47:47,626 - stream_matrix - INFO - Updated USD_JPY: 149.56 (bid: 149.552, ask: 149.568)
+2025-03-21 05:47:48,338 - stream_matrix - INFO - Updated GBP_USD: 1.29264 (bid: 1.29255, ask: 1.29273)
+2025-03-21 05:47:48,645 - stream_matrix - INFO - Updated GBP_USD: 1.292645 (bid: 1.29255, ask: 1.29274)
+2025-03-21 05:47:48,953 - stream_matrix - INFO - Updated GBP_USD: 1.29264 (bid: 1.29255, ask: 1.29273)
+2025-03-21 05:47:48,958 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:47:49,165 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:49,170 - stream_matrix - INFO - Updated USD_JPY: 149.5615 (bid: 149.554, ask: 149.569)
+2025-03-21 05:47:49,175 - stream_matrix - INFO - Updated GBP_USD: 1.292645 (bid: 1.29255, ask: 1.29274)
+2025-03-21 05:47:49,465 - stream_matrix - INFO - Updated USD_CAD: 1.43434 (bid: 1.43424, ask: 1.43444)
+2025-03-21 05:47:49,470 - stream_matrix - INFO - Updated USD_JPY: 149.56099999999998 (bid: 149.553, ask: 149.569)
+2025-03-21 05:47:49,475 - stream_matrix - INFO - Updated GBP_USD: 1.29264 (bid: 1.29255, ask: 1.29273)
+2025-03-21 05:47:49,977 - stream_matrix - INFO - Updated USD_CAD: 1.434345 (bid: 1.43425, ask: 1.43444)
+2025-03-21 05:47:49,982 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:47:50,183 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43425, ask: 1.43445)
+2025-03-21 05:47:50,187 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:47:50,696 - stream_matrix - INFO - Updated USD_CAD: 1.434355 (bid: 1.43426, ask: 1.43445)
+2025-03-21 05:47:50,905 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43425, ask: 1.43445)
+2025-03-21 05:47:50,910 - stream_matrix - INFO - Updated USD_JPY: 149.56099999999998 (bid: 149.553, ask: 149.569)
+2025-03-21 05:47:51,515 - stream_matrix - INFO - Updated USD_JPY: 149.5615 (bid: 149.554, ask: 149.569)
+2025-03-21 05:47:51,720 - stream_matrix - INFO - Updated AUD_USD: 0.628455 (bid: 0.62839, ask: 0.62852)
+2025-03-21 05:47:52,221 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:47:52,226 - stream_matrix - INFO - Updated USD_CAD: 1.434355 (bid: 1.43426, ask: 1.43445)
+2025-03-21 05:47:52,231 - stream_matrix - INFO - Updated USD_CHF: 0.883915 (bid: 0.88383, ask: 0.884)
+2025-03-21 05:47:52,236 - stream_matrix - INFO - Updated USD_JPY: 149.562 (bid: 149.554, ask: 149.57)
+2025-03-21 05:47:52,241 - stream_matrix - INFO - Updated GBP_USD: 1.292615 (bid: 1.29252, ask: 1.29271)
+2025-03-21 05:47:52,246 - stream_matrix - INFO - Updated AUD_USD: 0.62844 (bid: 0.62838, ask: 0.6285)
+2025-03-21 05:47:52,543 - stream_matrix - INFO - Updated USD_CHF: 0.88391 (bid: 0.88383, ask: 0.88399)
+2025-03-21 05:47:52,551 - stream_matrix - INFO - Updated USD_JPY: 149.562 (bid: 149.554, ask: 149.57)
+2025-03-21 05:47:52,556 - stream_matrix - INFO - Updated AUD_USD: 0.628435 (bid: 0.62837, ask: 0.6285)
+2025-03-21 05:47:52,846 - stream_matrix - INFO - Updated EUR_USD: 1.082135 (bid: 1.08206, ask: 1.08221)
+2025-03-21 05:47:53,153 - stream_matrix - INFO - Updated USD_CAD: 1.43435 (bid: 1.43425, ask: 1.43445)
+2025-03-21 05:47:53,500 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:47:53,571 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078936  5.007711  ...  0.360712  0.464523  0.553803
+EUR  0.078936  0.000000  5.086647  ...  0.439648  0.543459  0.632739
+JPY -5.007711 -5.086647  0.000000  ... -4.646999 -4.543188 -4.453908
+GBP  0.256667  0.177731  5.264378  ...  0.617379  0.721190  0.810470
+CHF  0.123400  0.044464  5.131111  ...  0.484112  0.587923  0.677203
+CAD -0.360712 -0.439648  4.646999  ...  0.000000  0.103811  0.193091
+AUD -0.464523 -0.543459  4.543188  ... -0.103811  0.000000  0.089280
+NZD -0.553803 -0.632739  4.453908  ... -0.193091 -0.089280  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:47:53,577 - stream_matrix - INFO - Updated USD_JPY: 149.5625 (bid: 149.555, ask: 149.57)
+2025-03-21 05:47:53,582 - stream_matrix - INFO - Updated GBP_USD: 1.2926250000000001 (bid: 1.29254, ask: 1.29271)
+2025-03-21 05:47:53,588 - stream_matrix - INFO - Updated AUD_USD: 0.62846 (bid: 0.62839, ask: 0.62853)
+2025-03-21 05:47:53,592 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:47:53,597 - stream_matrix - INFO - Updated USD_JPY: 149.5615 (bid: 149.554, ask: 149.569)
+2025-03-21 05:47:53,602 - stream_matrix - INFO - Updated NZD_USD: 0.5747599999999999 (bid: 0.57464, ask: 0.57488)
+2025-03-21 05:47:53,666 - stream_matrix - INFO - Updated USD_JPY: 149.562 (bid: 149.554, ask: 149.57)
+2025-03-21 05:47:54,080 - stream_matrix - INFO - Updated USD_CAD: 1.43433 (bid: 1.43423, ask: 1.43443)
+2025-03-21 05:47:54,085 - stream_matrix - INFO - Updated USD_JPY: 149.5615 (bid: 149.554, ask: 149.569)
+2025-03-21 05:47:54,091 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:47:54,097 - stream_matrix - INFO - Updated NZD_USD: 0.57477 (bid: 0.57464, ask: 0.5749)
+2025-03-21 05:47:54,189 - stream_matrix - INFO - Updated USD_CAD: 1.434315 (bid: 1.43422, ask: 1.43441)
+2025-03-21 05:47:54,194 - stream_matrix - INFO - Updated AUD_USD: 0.628475 (bid: 0.62841, ask: 0.62854)
+2025-03-21 05:47:54,790 - stream_matrix - INFO - Updated USD_JPY: 149.5615 (bid: 149.553, ask: 149.57)
+2025-03-21 05:47:54,796 - stream_matrix - INFO - Updated GBP_USD: 1.2926350000000002 (bid: 1.29255, ask: 1.29272)
+2025-03-21 05:47:54,801 - stream_matrix - INFO - Updated AUD_USD: 0.62847 (bid: 0.6284, ask: 0.62854)
+2025-03-21 05:47:55,104 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:47:55,110 - stream_matrix - INFO - Updated GBP_USD: 1.29263 (bid: 1.29254, ask: 1.29272)
+2025-03-21 05:47:55,509 - stream_matrix - INFO - Updated USD_JPY: 149.562 (bid: 149.554, ask: 149.57)
+2025-03-21 05:47:55,814 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:47:55,820 - stream_matrix - INFO - Updated USD_JPY: 149.562 (bid: 149.554, ask: 149.57)
+2025-03-21 05:47:56,223 - stream_matrix - INFO - Updated USD_JPY: 149.56 (bid: 149.552, ask: 149.568)
+2025-03-21 05:47:58,224 - stream_matrix - INFO - Updated EUR_USD: 1.0821450000000001 (bid: 1.08207, ask: 1.08222)
+2025-03-21 05:47:59,298 - stream_matrix - INFO - Updated AUD_USD: 0.628475 (bid: 0.62841, ask: 0.62854)
+2025-03-21 05:47:59,304 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57465, ask: 0.5749)
+2025-03-21 05:47:59,501 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:47:59,820 - stream_matrix - INFO - Updated USD_JPY: 149.55700000000002 (bid: 149.549, ask: 149.565)
+2025-03-21 05:47:59,825 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:48:00,031 - stream_matrix - INFO - Updated USD_CAD: 1.43431 (bid: 1.43421, ask: 1.43441)
+2025-03-21 05:48:00,036 - stream_matrix - INFO - Updated USD_JPY: 149.553 (bid: 149.546, ask: 149.56)
+2025-03-21 05:48:00,041 - stream_matrix - INFO - Updated GBP_USD: 1.2926449999999998 (bid: 1.29256, ask: 1.29273)
+2025-03-21 05:48:00,323 - stream_matrix - INFO - Updated USD_CAD: 1.434315 (bid: 1.43422, ask: 1.43441)
+2025-03-21 05:48:00,329 - stream_matrix - INFO - Updated USD_JPY: 149.55349999999999 (bid: 149.546, ask: 149.561)
+2025-03-21 05:48:00,526 - stream_matrix - INFO - Updated USD_CAD: 1.43431 (bid: 1.43421, ask: 1.43441)
+2025-03-21 05:48:00,531 - stream_matrix - INFO - Updated USD_JPY: 149.554 (bid: 149.547, ask: 149.561)
+2025-03-21 05:48:00,832 - stream_matrix - INFO - Updated USD_JPY: 149.554 (bid: 149.547, ask: 149.561)
+2025-03-21 05:48:01,047 - stream_matrix - INFO - Updated USD_JPY: 149.55349999999999 (bid: 149.546, ask: 149.561)
+2025-03-21 05:48:01,052 - stream_matrix - INFO - Updated NZD_USD: 0.574765 (bid: 0.57465, ask: 0.57488)
+2025-03-21 05:48:01,345 - stream_matrix - INFO - Updated EUR_USD: 1.0821800000000001 (bid: 1.0821, ask: 1.08226)
+2025-03-21 05:48:01,351 - stream_matrix - INFO - Updated USD_CAD: 1.4342350000000001 (bid: 1.43414, ask: 1.43433)
+2025-03-21 05:48:01,356 - stream_matrix - INFO - Updated USD_JPY: 149.554 (bid: 149.547, ask: 149.561)
+2025-03-21 05:48:01,361 - stream_matrix - INFO - Updated GBP_USD: 1.292665 (bid: 1.29258, ask: 1.29275)
+2025-03-21 05:48:01,367 - stream_matrix - INFO - Updated NZD_USD: 0.57481 (bid: 0.5747, ask: 0.57492)
+2025-03-21 05:48:01,652 - stream_matrix - INFO - Updated EUR_USD: 1.0821800000000001 (bid: 1.0821, ask: 1.08226)
+2025-03-21 05:48:01,658 - stream_matrix - INFO - Updated USD_JPY: 149.55349999999999 (bid: 149.546, ask: 149.561)
+2025-03-21 05:48:01,664 - stream_matrix - INFO - Updated GBP_USD: 1.2926600000000001 (bid: 1.29258, ask: 1.29274)
+2025-03-21 05:48:01,669 - stream_matrix - INFO - Updated AUD_USD: 0.628495 (bid: 0.62844, ask: 0.62855)
+2025-03-21 05:48:01,674 - stream_matrix - INFO - Updated NZD_USD: 0.5748 (bid: 0.57468, ask: 0.57492)
+2025-03-21 05:48:01,959 - stream_matrix - INFO - Updated USD_JPY: 149.55349999999999 (bid: 149.546, ask: 149.561)
+2025-03-21 05:48:01,965 - stream_matrix - INFO - Updated GBP_USD: 1.292675 (bid: 1.29259, ask: 1.29276)
+2025-03-21 05:48:02,267 - stream_matrix - INFO - Updated EUR_USD: 1.082165 (bid: 1.08209, ask: 1.08224)
+2025-03-21 05:48:02,271 - stream_matrix - INFO - Updated USD_CAD: 1.434265 (bid: 1.43417, ask: 1.43436)
+2025-03-21 05:48:02,277 - stream_matrix - INFO - Updated USD_CHF: 0.88391 (bid: 0.88383, ask: 0.88399)
+2025-03-21 05:48:02,282 - stream_matrix - INFO - Updated USD_JPY: 149.55599999999998 (bid: 149.548, ask: 149.564)
+2025-03-21 05:48:02,287 - stream_matrix - INFO - Updated GBP_USD: 1.2926600000000001 (bid: 1.29257, ask: 1.29275)
+2025-03-21 05:48:02,574 - stream_matrix - INFO - Updated USD_CAD: 1.43426 (bid: 1.43417, ask: 1.43435)
+2025-03-21 05:48:02,580 - stream_matrix - INFO - Updated USD_CHF: 0.883915 (bid: 0.88383, ask: 0.884)
+2025-03-21 05:48:02,585 - stream_matrix - INFO - Updated USD_JPY: 149.559 (bid: 149.551, ask: 149.567)
+2025-03-21 05:48:02,590 - stream_matrix - INFO - System health metrics:
+2025-03-21 05:48:02,595 - stream_matrix - INFO - Uptime: 21h 13m 13s
+2025-03-21 05:48:02,600 - stream_matrix - INFO - Total updates: 415900
+2025-03-21 05:48:02,605 - stream_matrix - INFO - Updates per minute: 326.65
+2025-03-21 05:48:02,610 - stream_matrix - INFO - Connection attempts: 13
+2025-03-21 05:48:02,615 - stream_matrix - INFO - Matrix updates: 7303
+2025-03-21 05:48:02,619 - stream_matrix - INFO - Arbitrage opportunities: 0
+2025-03-21 05:48:02,625 - stream_matrix - INFO - Circuit breaker: CLOSED
+2025-03-21 05:48:02,630 - stream_matrix - INFO - Time since last update: 0.04s
+2025-03-21 05:48:02,635 - stream_matrix - INFO - Updated GBP_USD: 1.2926549999999999 (bid: 1.29256, ask: 1.29275)
+2025-03-21 05:48:02,789 - stream_matrix - INFO - Updated USD_CAD: 1.43425 (bid: 1.43415, ask: 1.43435)
+2025-03-21 05:48:02,795 - stream_matrix - INFO - Updated USD_JPY: 149.5595 (bid: 149.553, ask: 149.566)
+2025-03-21 05:48:02,800 - stream_matrix - INFO - Updated GBP_USD: 1.29264 (bid: 1.29255, ask: 1.29273)
+2025-03-21 05:48:03,070 - stream_matrix - INFO - Updated USD_CAD: 1.434255 (bid: 1.43416, ask: 1.43435)
+2025-03-21 05:48:03,076 - stream_matrix - INFO - Updated USD_JPY: 149.558 (bid: 149.552, ask: 149.564)
+2025-03-21 05:48:03,259 - stream_matrix - INFO - Updated USD_JPY: 149.557 (bid: 149.551, ask: 149.563)
+2025-03-21 05:48:03,663 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:48:03,720 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078964  5.007678  ...  0.360646  0.464427  0.553733
+EUR  0.078964  0.000000  5.086641  ...  0.439609  0.543391  0.632697
+JPY -5.007678 -5.086641  0.000000  ... -4.647032 -4.543250 -4.453944
+GBP  0.256687  0.177723  5.264364  ...  0.617332  0.721114  0.810420
+CHF  0.123394  0.044431  5.131072  ...  0.484040  0.587822  0.677127
+CAD -0.360646 -0.439609  4.647032  ...  0.000000  0.103782  0.193088
+AUD -0.464427 -0.543391  4.543250  ... -0.103782  0.000000  0.089306
+NZD -0.553733 -0.632697  4.453944  ... -0.193088 -0.089306  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:48:03,726 - stream_matrix - INFO - Updated USD_JPY: 149.558 (bid: 149.552, ask: 149.564)
+2025-03-21 05:48:03,803 - stream_matrix - INFO - Updated USD_CAD: 1.43425 (bid: 1.43415, ask: 1.43435)
+2025-03-21 05:48:03,809 - stream_matrix - INFO - Updated USD_CHF: 0.8839250000000001 (bid: 0.88385, ask: 0.884)
+2025-03-21 05:48:04,117 - stream_matrix - INFO - Updated EUR_USD: 1.082135 (bid: 1.08206, ask: 1.08221)
+2025-03-21 05:48:04,123 - stream_matrix - INFO - Updated USD_CAD: 1.434265 (bid: 1.43417, ask: 1.43436)
+2025-03-21 05:48:04,128 - stream_matrix - INFO - Updated USD_CHF: 0.883935 (bid: 0.88385, ask: 0.88402)
+2025-03-21 05:48:04,134 - stream_matrix - INFO - Updated USD_JPY: 149.564 (bid: 149.558, ask: 149.57)
+2025-03-21 05:48:04,139 - stream_matrix - INFO - Updated GBP_USD: 1.292605 (bid: 1.29251, ask: 1.2927)
+2025-03-21 05:48:04,144 - stream_matrix - INFO - Updated NZD_USD: 0.574775 (bid: 0.57466, ask: 0.57489)
+2025-03-21 05:48:04,826 - stream_matrix - INFO - Updated USD_CHF: 0.88394 (bid: 0.88385, ask: 0.88403)
+2025-03-21 05:48:05,133 - stream_matrix - INFO - Updated USD_CAD: 1.434275 (bid: 1.43417, ask: 1.43438)
+2025-03-21 05:48:05,138 - stream_matrix - INFO - Updated USD_CHF: 0.883935 (bid: 0.88385, ask: 0.88402)
+2025-03-21 05:48:05,646 - stream_matrix - INFO - Updated USD_CAD: 1.43425 (bid: 1.43415, ask: 1.43435)
+2025-03-21 05:48:06,363 - stream_matrix - INFO - Updated USD_CHF: 0.883935 (bid: 0.88385, ask: 0.88402)
+2025-03-21 05:48:07,101 - stream_matrix - INFO - Updated AUD_USD: 0.628475 (bid: 0.62841, ask: 0.62854)
+2025-03-21 05:48:07,359 - stream_matrix - INFO - Updated USD_CHF: 0.88394 (bid: 0.88385, ask: 0.88403)
+2025-03-21 05:48:07,856 - stream_matrix - INFO - Updated EUR_USD: 1.082135 (bid: 1.08206, ask: 1.08221)
+2025-03-21 05:48:08,421 - stream_matrix - INFO - Updated AUD_USD: 0.62848 (bid: 0.62841, ask: 0.62855)
+2025-03-21 05:48:08,426 - stream_matrix - INFO - Updated NZD_USD: 0.574795 (bid: 0.57467, ask: 0.57492)
+2025-03-21 05:48:09,641 - stream_matrix - INFO - Updated NZD_USD: 0.574785 (bid: 0.57467, ask: 0.5749)
+2025-03-21 05:48:09,948 - stream_matrix - INFO - Updated USD_JPY: 149.563 (bid: 149.557, ask: 149.569)
+2025-03-21 05:48:10,160 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:48:10,165 - stream_matrix - INFO - Updated USD_CHF: 0.88399 (bid: 0.88391, ask: 0.88407)
+2025-03-21 05:48:10,460 - stream_matrix - INFO - Updated NZD_USD: 0.57479 (bid: 0.57467, ask: 0.57491)
+2025-03-21 05:48:10,666 - stream_matrix - INFO - Updated NZD_USD: 0.574785 (bid: 0.57467, ask: 0.5749)
+2025-03-21 05:48:10,972 - stream_matrix - INFO - Updated EUR_USD: 1.082135 (bid: 1.08206, ask: 1.08221)
+2025-03-21 05:48:11,491 - stream_matrix - INFO - Updated NZD_USD: 0.57479 (bid: 0.57467, ask: 0.57491)
+2025-03-21 05:48:11,903 - stream_matrix - INFO - Updated AUD_USD: 0.628475 (bid: 0.62841, ask: 0.62854)
+2025-03-21 05:48:11,909 - stream_matrix - INFO - Updated NZD_USD: 0.574785 (bid: 0.57467, ask: 0.5749)
+2025-03-21 05:48:12,508 - stream_matrix - INFO - Updated USD_CAD: 1.43425 (bid: 1.43415, ask: 1.43435)
+2025-03-21 05:48:12,518 - stream_matrix - INFO - Updated USD_JPY: 149.564 (bid: 149.558, ask: 149.57)
+2025-03-21 05:48:12,533 - stream_matrix - INFO - Updated AUD_USD: 0.628475 (bid: 0.62841, ask: 0.62854)
+2025-03-21 05:48:12,543 - stream_matrix - INFO - Updated NZD_USD: 0.57478 (bid: 0.57466, ask: 0.5749)
+2025-03-21 05:48:13,027 - stream_matrix - INFO - Updated EUR_USD: 1.0821450000000001 (bid: 1.08207, ask: 1.08222)
+2025-03-21 05:48:13,230 - stream_matrix - INFO - Updated AUD_USD: 0.62848 (bid: 0.62841, ask: 0.62855)
+2025-03-21 05:48:13,953 - stream_matrix - INFO - Updated USD_JPY: 149.563 (bid: 149.557, ask: 149.569)
+2025-03-21 05:48:14,844 - stream_matrix - INFO - Updated Exchange Rate Log Matrix:
+2025-03-21 05:48:14,997 - stream_matrix - INFO - 
+          USD       EUR       JPY  ...       CAD       AUD       NZD
+USD  0.000000 -0.078945  5.007718  ...  0.360642  0.464451  0.553768
+EUR  0.078945  0.000000  5.086663  ...  0.439587  0.543396  0.632713
+JPY -5.007718 -5.086663  0.000000  ... -4.647076 -4.543267 -4.453950
+GBP  0.256660  0.177714  5.264377  ...  0.617302  0.721111  0.810427
+CHF  0.123310  0.044364  5.131027  ...  0.483952  0.587761  0.677077
+CAD -0.360642 -0.439587  4.647076  ...  0.000000  0.103809  0.193126
+AUD -0.464451 -0.543396  4.543267  ... -0.103809  0.000000  0.089317
+NZD -0.553768 -0.632713  4.453950  ... -0.193126 -0.089317  0.000000
+
+[8 rows x 8 columns]
+2025-03-21 05:48:15,007 - stream_matrix - INFO - Updated USD_JPY: 149.564 (bid: 149.558, ask: 149.57)
+2025-03-21 05:48:15,782 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08207, ask: 1.08221)
+2025-03-21 05:48:15,988 - stream_matrix - INFO - Updated EUR_USD: 1.0821399999999999 (bid: 1.08206, ask: 1.08222)

@@ -1,0 +1,7 @@
+requests>=2.27.1
+pandas>=1.4.0
+numpy>=1.22.0
+schedule>=1.1.0
+kafka-python>=2.0.2
+dash>=2.6.0
+plotly>=5.10.0
